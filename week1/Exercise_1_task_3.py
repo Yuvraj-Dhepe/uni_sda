@@ -3,7 +3,7 @@
 
 # In[1]:
 
-
+# Group Members: Dhvaniben Jasoliya, Leutrim Uka, Tauqeer Rumaney, Nicola Horst, Yuvraj Dhepe
 import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
