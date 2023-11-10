@@ -3,7 +3,7 @@ import pandas as pd
 from pandas import DataFrame
 import matplotlib
 import matplotlib.pyplot as plt
-
+# Group Members: Dhvaniben Jasoliya, Leutrim Uka, Nicola Horst, Tauqeer Rumaney, Yuvraj Dhepe
 # since there seems to be an issue
 matplotlib.use('TkAgg')
 
