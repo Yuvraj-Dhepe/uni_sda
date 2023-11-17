@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-
+# Group Members: Dhvaniben Jasoliya, Leutrim Uka, Nicola Horst, Tauqeer Rumaney, Yuvraj Dhepe
 # Load X and Y data from CSV files
 X = pd.read_csv('X.txt', header=None)
 Y = pd.read_csv('Y.txt', header=None)
