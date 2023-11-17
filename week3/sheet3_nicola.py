@@ -52,8 +52,8 @@ def get_adjusted_sigma_hat_estimate(x: np.array, y: np.array, beta_hat: np.array
 
 
 if __name__ == "__main__":
-    path_x: str = "./Data/X.txt"
-    path_y: str = "./Data/Y.txt"
+    path_x: str = "./X.txt"
+    path_y: str = "./Y.txt"
 
     # load the data
     x, y = read_data(path_x, path_y)
