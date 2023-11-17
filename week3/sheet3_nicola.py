@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 from pandas import DataFrame
-
+# Group Members: Dhvaniben Jasoliya Leutrim Uka Nicola Horst Tauqeer Rumaney Yuvraj Dhepe
 
 def read_data(path_x: str, path_y: str):
     x: DataFrame = pd.read_csv(path_x, sep=',', header=None, names=['x1', 'x2', 'x3'])
