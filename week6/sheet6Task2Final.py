@@ -1,5 +1,10 @@
 import numpy as np
-
+#Group members:
+#Dhvaniben Jasoliya
+#Leutrim Uka
+#Nicola Horst
+#Taqueer Rumaney
+#Yuvraj Dhepe
 
 def get_eps(m):
     return np.random.normal(0, 0.5, size=(m, 1))
